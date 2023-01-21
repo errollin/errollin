@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-  𝑯𝒆𝒚~ 𝒆𝒓𝒓𝒐𝒍 𝒉𝒆𝒓𝒆 👋
+  🌸 𝑯𝒆𝒚~ 𝒆𝒓𝒓𝒐𝒍 𝒉𝒆𝒓𝒆 🌸
 </h2>
 
-### 🎉 My Profile
+### 🍁 My Profile
 
-I'm ✨**Errol Lin**✨, a programming enthusiast from Sichuan, China.
+I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, China.
 
 - 💻 I use daily:
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=ffffff)
@@ -31,7 +31,7 @@ I'm ✨**Errol Lin**✨, a programming enthusiast from Sichuan, China.
   ![TypeScript](https://img.shields.io/badge/TypeScript%20-ffffff.svg?logo=typescript&logoColor=007ACC)
   ![React](https://img.shields.io/badge/React%20-000000.svg?logo=react&logoColor=61dafb)
   
-- ⚙️ I also use and work:
+- ❄️ I also use and work:
   ![Spring](https://img.shields.io/badge/Spring%20-42b883.svg?logo=spring&logoColor=ffffff)
   ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea%20-a757ef.svg?logo=intellijidea&logoColor=ffffff)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=ffffff)
