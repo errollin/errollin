@@ -35,6 +35,7 @@ I'm ✨**Errol Lin**✨, a programming enthusiast from Sichuan, China.
   ![Spring](https://img.shields.io/badge/Spring%20-42b883.svg?logo=spring&logoColor=ffffff)
   ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea%20-a757ef.svg?logo=intellijidea&logoColor=ffffff)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=ffffff)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff)
 
 - 🌱 I'm learning: 
   ![Angular](https://img.shields.io/badge/Angular%20-ff3d00.svg?logo=angular&logoColor=ffffff)
@@ -46,12 +47,10 @@ I'm ✨**Errol Lin**✨, a programming enthusiast from Sichuan, China.
   ![Redis](https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=ffffff)
   ![MacOS](https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=ffffff)
-  
----
 
 ### 📈 My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errollin&layout=compact&theme=omni" alt="Errol's Languages">
-    <img src="https://github-readme-stats.vercel.app/api/?username=errollin&theme=omni&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/?username=errollin&theme=omni&hide_border=true&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errollin&layout=compact&theme=omni&hide_border=true" alt="Errol's Languages">
 </div>
