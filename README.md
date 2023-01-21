@@ -44,7 +44,7 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
 
 - 💖 Want to studay in the future:
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
-  ![Redis](https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=ffffff)
+  ![Redis](https://img.shields.io/badge/Redis-%23c83d2e.svg?logo=redis&logoColor=ffffff)
   ![MacOS](https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=ffffff)
 
