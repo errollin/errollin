@@ -33,18 +33,20 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   
 - ❄️ I also use and work:
   ![Spring](https://img.shields.io/badge/Spring%20-42b883.svg?logo=spring&logoColor=ffffff)
-  ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea%20-a757ef.svg?logo=intellijidea&logoColor=ffffff)
+  ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea%20-1F90EF.svg?logo=intellijidea&logoColor=ffffff)
+  ![DataGrip](https://img.shields.io/badge/DataGrip-2edc84.svg?logo=datagrip&logoColor=ffffff)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=ffffff)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff)
+  ![Redis](https://img.shields.io/badge/Redis-%23c83d2e.svg?logo=redis&logoColor=ffffff)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-842CEA.svg?logo=obsidian&logoColor=ffffff)
 
 - 🌱 I'm learning: 
   ![Angular](https://img.shields.io/badge/Angular%20-ff3d00.svg?logo=angular&logoColor=ffffff)
   ![Vue](https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js&logoColor=42b883)
   ![Flutter](https://img.shields.io/badge/Flutter%20-ffffff.svg?logo=flutter&logoColor=61dafb)
-
-- 💖 Want to study in the future:
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
-  ![Redis](https://img.shields.io/badge/Redis-%23c83d2e.svg?logo=redis&logoColor=ffffff)
+  
+- 💖 Want to study in the future:
   ![MacOS](https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=ffffff)
 
