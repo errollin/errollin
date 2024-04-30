@@ -41,21 +41,21 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   ![Obsidian](https://img.shields.io/badge/Obsidian-842CEA.svg?logo=obsidian&logoColor=ffffff)
 
 - 🌱 I'm learning: 
-  ![Angular](https://img.shields.io/badge/Angular%20-ff3d00.svg?logo=angular&logoColor=ffffff)
+  ![Angular](https://img.shields.io/badge/Angular%20-e61b2e.svg?logo=angular&logoColor=ffffff)
   ![Vue](https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js&logoColor=42b883)
   ![Flutter](https://img.shields.io/badge/Flutter%20-ffffff.svg?logo=flutter&logoColor=61dafb)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
   
 - 💖 Want to study in the future:
   ![MacOS](https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=ffffff)
+  ![Ruby](https://img.shields.io/badge/Ruby%20-ffffff.svg?logo=ruby&logoColor=e61b2e)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=ffffff)
+  ![Rust](https://img.shields.io/badge/Rust%20-ffffff.svg?logo=rust&logoColor=000000)
 
 ### 📈 My GitHub Stats
 
 <div align="center">
-    <img height="140px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=errollin&theme=omni&hide_border=true&show_icons=true" alt="Errol's GitHub Stats">
-    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=errollin&theme=omni&hide_border=true" alt="Errol's GitHub Streak Stats">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=errollin&theme=omni&hide_border=true&card_width=500&show_icons=true&include_all_commits=true" alt="Errol's GitHub Stats">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=errollin&theme=omni&hide_border=true&card_width=500&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Errol's Languages">
 </div>
-<div align="center">
-    <img height="140px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=errollin&layout=compact&theme=omni&hide_border=true" alt="Errol's Languages">
-</div>
+
