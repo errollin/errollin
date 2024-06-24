@@ -32,7 +32,6 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   ![TypeScript](https://img.shields.io/badge/TypeScript%20-ffffff.svg?logo=typescript&logoColor=007acc)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=ffffff)
   ![Git](https://img.shields.io/badge/Git%20-f0efe7.svg?logo=git&logoColor=e34f26)
-  ![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?logo=obsidian&logoColor=842cea)
   
 - ❄️ I also use and work:
   ![Spring](https://img.shields.io/badge/Spring%20-42b883.svg?logo=spring&logoColor=ffffff)
@@ -42,6 +41,7 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   ![Postman](https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=ffffff)
   ![Redis](https://img.shields.io/badge/Redis-cf2e2e.svg?logo=redis&logoColor=ffffff)
   ![Docker](https://img.shields.io/badge/Docker-1d63ed?logo=docker&logoColor=ffffff)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?logo=obsidian&logoColor=842cea)
 
 - 🌱 I'm learning: 
   ![React Native](https://img.shields.io/badge/React%20Native%20-242526.svg?logo=react&logoColor=61dafb)
