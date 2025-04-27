@@ -57,7 +57,7 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
 ### 📈 My GitHub Stats
 
 <div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=errollin&theme=omni&hide_border=true&card_width=500&show_icons=true&random=123" alt="Errol's GitHub Stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=errollin&theme=omni&hide_border=true&card_width=500&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&random=123" alt="Errol's Languages">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=errollin&theme=omni&hide_border=true&card_width=500&show_icons=true" alt="Errol's GitHub Stats">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=errollin&theme=omni&hide_border=true&card_width=500&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Errol's Languages">
 </div>
 
