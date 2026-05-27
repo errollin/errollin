@@ -54,10 +54,10 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   ![Python](https://img.shields.io/badge/Python%20-2b5b84.svg?logo=python&logoColor=ffffff)
   ![Rust](https://img.shields.io/badge/Rust%20-ffffff.svg?logo=rust&logoColor=000000)
 
-### 📈 My GitHub Stats
+<!-- ### 📈 My GitHub Stats
 
 <div align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=errollin&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=350" alt="Errol's GitHub Stats">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errollin&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&card_width=350&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Errol's Languages">
 </div>
-
+-->
