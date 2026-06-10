@@ -50,9 +50,9 @@ I'm ✨**Errol Lin**✨, a programming ☀️enthusiast☀️ from Sichuan, Chin
   ![Ruby](https://img.shields.io/badge/Ruby%20-ffffff.svg?logo=ruby&logoColor=cc342d)
   
 - 💖 Want to study in the future:
-<!--  ![MacOS](https://img.shields.io/badge/MacOS-333333?logo=apple&logoColor=ffffff) -->
   ![Python](https://img.shields.io/badge/Python%20-2b5b84.svg?logo=python&logoColor=ffffff)
   ![Rust](https://img.shields.io/badge/Rust%20-ffffff.svg?logo=rust&logoColor=000000)
+<!--  ![MacOS](https://img.shields.io/badge/MacOS-333333?logo=apple&logoColor=ffffff) -->
 
 <!-- ### 📈 My GitHub Stats
 
